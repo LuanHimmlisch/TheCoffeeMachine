@@ -718,3 +718,15 @@ PERSON BEHIND ME
 Death<DON'T TURN AROUND>
 JUMPSCARE
 Image<https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/1590501/26099_disturbed.jpg>
+MOLOTOV COCKTAIL
+Ignite<>
+MOLOTOV
+Ignite<>
+COCKTAIL
+Flammable<>
+PIE
+Death<[i]Joe poisoned it to get his revenge...[/i]>
+BOB
+Message<[i]You hear a thud as someone faints [b]behind you[/b][/i]>
+DOG
+Death<[i]You tried to drink solid flesh and [b]choke[/b]...[/i]>
